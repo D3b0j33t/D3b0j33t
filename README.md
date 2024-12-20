@@ -1,6 +1,6 @@
 # Hi there, I'm Debojeet Bhowmick! 👋
 
-![Profile Banner](https://debojeet-bhowmick.netlify.app/favicon.png)
+![Profile Banner](https://debojeet-bhowmick.netlify.app/images/favicon.png)
 
 ## About Me
 
