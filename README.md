@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Welcome, I'm Debojeet Bhowmick 🌟</h1>
 
 <p align="center">
-  <img src="https://debojeet-bhowmick.netlify.app/images/favicon.png" alt="Debojeet Bhowmick Profile" width="400" height="300">
+  <img src="https://debojeet-bhowmick.netlify.app/images/favicon.png" alt="Debojeet Bhowmick Profile" width="300" height="300">
 </p>
 
 ---
