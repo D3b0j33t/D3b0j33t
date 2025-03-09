@@ -1,66 +1,53 @@
-<h1 align="center">🌟 Welcome, I'm Debojeet Bhowmick 🌟</h1>
+<h1 align="center">🚀 Debojeet Bhowmick — Building Digital Experiences That Convert</h1>
 
 <p align="center">
-  <img src="https://debojeet-bhowmick.netlify.app/images/favicon.png" alt="Debojeet Bhowmick Profile" width="300" height="300">
+  <img src="https://debojeet-bhowmick.netlify.app/images/favicon.png" alt="Debojeet Bhowmick Profile" width="250">
+</p>
+
+<p align="center">
+  <i>Transforming ideas into high-performing digital products.</i>
 </p>
 
 ---
 
-<h2 align="center">"I don't just build websites — I create experiences that **convert, inspire, and grow businesses.**"</h2>
-<p align="center">
-<i>If you're here, you're already one step closer to unlocking your digital future.</i>
-</p>
+## 👋 About Me  
+
+I’m **Debojeet Bhowmick**, the **Founder & CEO of DEWizards Pvt. Ltd.**, where technology meets creativity to help businesses **scale and thrive online**.  
+
+- 🎓 Pursuing **BCA at ASBM University**  
+- 🎥 Educating & sharing insights on **[YouTube](https://www.youtube.com/channel/UCrxag8szJ24xzIeBRtwUyoQ)**  
+- 💡 Passionate about **Python Automation, Custom CRMs, and SEO Growth Strategies**  
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=d3b0j33t&label=👀%20Profile%20Views&color=brightgreen&style=flat">
-  <a href="https://debojeet-bhowmick.netlify.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-Discover%20My%20Work-4caf50?style=flat-square">
-  </a>
-  <a href="https://www.youtube.com/channel/UCrxag8szJ24xzIeBRtwUyoQ" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square">
-  </a>
-  <a href="mailto:dewizards.com@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-Let's%20Talk-important?style=flat-square">
-  </a>
-</p>
+## 💡 Why Work With Me?  
+
+✅ **Data-Driven Approach** – My solutions are backed by analytics & user behavior insights  
+✅ **High-Impact Development** – I craft web experiences that drive engagement & conversions  
+✅ **User Psychology Expertise** – Every design & interaction is optimized for UX & retention  
 
 ---
 
-## 🚀 About Me
+## 🔥 Core Expertise  
 
-I turn **visions into pixel-perfect realities**.
-
-I'm the **Founder & CEO of DEWizards Pvt. Ltd.**, where we blend **art + technology** to help businesses **dominate the digital space**.
-
-- 🎓 Studying **BCA at ASBM University**
-- 🎥 Sharing knowledge on [YouTube](https://www.youtube.com/channel/UCrxag8szJ24xzIeBRtwUyoQ)
-- 🔥 Passionate about **Python Automation**, **Custom CRMs**, and **SEO Growth Hacking**
+- **Full-Stack Development:** ReactJS, Django, Python, MySQL  
+- **Automation & AI:** Python scripting, workflow automation, AI-driven analytics  
+- **SEO & Digital Growth:** Organic growth strategies, conversion rate optimization  
+- **UI/UX Design:** Human-centered, conversion-focused designs  
 
 ---
 
-## 🔥 What Sets Me Apart?
+## 🚀 Recent Projects  
 
-| Feature             | Why It Matters |
-|------------------|----------------|
-| 💡 Innovation      | I craft **unique digital experiences** tailored to YOUR audience |
-| 📈 Results        | My projects have increased **engagement by 120%** and **revenue by 250k annually** |
-| 🧠 Psychology-Based Design | Every line of code is written to **influence user behavior** |
-
----
-
-## Recent Projects 🚀
-
-| Project Name    | Impact                     | Technology |
-|---------------|---------------------------|-----------|
-| **SandyGo 🌊** | Boosted travel engagement by **65%** | ReactJS + Django |
-| **BurgerVerse 🍔** | Increased user retention by **120%** | Python + MySQL |
-| **Financial Analysis Tool 📊** | Saved businesses an average of **$250k annually** | Python Automation |
+| Project Name         | Impact                               | Tech Stack               |
+|----------------------|-------------------------------------|--------------------------|
+| **SandyGo 🌊**       | Increased travel engagement by 65% | ReactJS + Django         |
+| **BurgerVerse 🍔**   | Improved user retention by 120%    | Python + MySQL           |
+| **FinAnalysis 📊**   | Saved businesses ~$250K annually   | Python Automation        |
 
 ---
 
-### 💪 Tech Stack I Use
+## 🛠️ Tech Stack  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/>
@@ -72,25 +59,7 @@ I'm the **Founder & CEO of DEWizards Pvt. Ltd.**, where we blend **art + technol
 
 ---
 
-## 🧠 Why Work With Me?
-
-✅ I **understand how users think**  
-✅ I create **psychological experiences** that make users stay  
-✅ I don't build websites — I build **brands that people remember**
-
----
-
-### What My Clients Say 💬
-
-> "_DEWizards didn't just deliver software... they delivered **business growth**._"  
-— **Jackson Levi**
-
-> "_If you're looking for a developer who **understands your vision** — Debojeet is the one._"  
-— **Deepali Mohapatra**
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Insights  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=d3b0j33t&show_icons=true&theme=gruvbox" alt="GitHub Stats">
@@ -99,28 +68,33 @@ I'm the **Founder & CEO of DEWizards Pvt. Ltd.**, where we blend **art + technol
 
 ---
 
-## 💌 Connect With Me
+## 🏆 Client Testimonials  
 
-| Platform        | Link                                            |
-|----------------|------------------------------------------------|
-| 🌐 Website     | [Visit My Website](https://debojeet-bhowmick.netlify.app) |
-| 📧 Email       | [dewizards.com@gmail.com](mailto:dewizards.com@gmail.com) |
-| 🎥 YouTube     | [Subscribe](https://www.youtube.com/channel/UCrxag8szJ24xzIeBRtwUyoQ) |
-| 📸 Instagram   | [Follow Me](https://www.instagram.com/debojeet_bhowmick/) |
-| 📞 Call Me     | **+91 9835418245** |
+> "_DEWizards didn't just deliver software... they delivered **business growth**._"  
+— **Jackson Levi**  
+
+> "_If you're looking for a developer who **understands your vision**, Debojeet is the one._"  
+— **Deepali Mohapatra**  
 
 ---
 
-### Wait... There's More 🔥
+## 📩 Let's Connect  
+
+| Platform        | Link                                            |
+|----------------|------------------------------------------------|
+| 🌐 Website     | [debojeet-bhowmick.netlify.app](https://debojeet-bhowmick.netlify.app) |
+| 📧 Email       | [dewizards.com@gmail.com](mailto:dewizards.com@gmail.com) |
+| 🎥 YouTube     | [Subscribe](https://www.youtube.com/channel/UCrxag8szJ24xzIeBRtwUyoQ) |
+| 📸 Instagram   | [Follow Me](https://www.instagram.com/debojeet_bhowmick/) |
+| 📞 Call        | **+91 9835418245** |
+
+---
+
+### 🚀 Ready to Elevate Your Business?  
+
+I don't just develop websites—I create **brands that people remember**.  
+Let’s collaborate and build something exceptional!  
 
 <p align="center">
   <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" alt="Let's Collaborate" width="200">
 </p>
-
----
-
-### 🎯 Are You Ready to Build Something Unforgettable?
-
-<h3 align="center">
-  Let's make your business the next big success story!
-</h3>
