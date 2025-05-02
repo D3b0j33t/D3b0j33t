@@ -156,7 +156,7 @@ With each project, I don’t just write code—I weave clarity, precision, and i
 |----------------|----------------------------------------------------------------------|
 | 🌐 Website     | [debojeet-bhowmick.netlify.app](https://debojeet-bhowmick.netlify.app) |
 | 📧 Email       | [debojeet9279.ckp@gmail.com](mailto:debojeet9279.ckp@gmail.com)       |
-| 🔗 LinkedIn    | [LinkedIn Profile](https://www.linkedin.com/in/debojeetbhowmick)       |
+| 🔗 LinkedIn    | [LinkedIn Profile](https://www.linkedin.com/in/debojeet-bhowmick-a95373266/)       |
 | 📞 Phone       | [**+91 9835418245**](tel:+919835418245)                               |
 | 📸 Instagram   | [@debojeet_bhowmick](https://www.instagram.com/debojeet_bhowmick/)    |
 | 🎥 YouTube     | [YouTube Channel](https://www.youtube.com/channel/UCrxag8szJ24xzIeBRtwUyoQ) |
