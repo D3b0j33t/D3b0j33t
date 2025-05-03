@@ -128,6 +128,7 @@ With each project, I don’t just write code—I weave clarity, precision, and i
 | **Jasper ChatBot** | Smart AI assistant bot | [🤖 Talk](https://debojeet-bhowmick.netlify.app/jasper.html) |
 | **Vastu Vista** | Vastu-based space advice | [🏠 Discover](https://vastu-vista.vercel.app/) |
 | **Elite Rides** | Luxury car rental app | [🚗 Book](https://elite-rides.netlify.app/) |
+| **BeatSnatch** | BeatSnatch is a real-time music recognition web app | [🎧 Try Now](https://beatsnatch.up.railway.app/) |
 
 ---
 
