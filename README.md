@@ -109,8 +109,8 @@ With each project, I don’t just write code—I weave clarity, precision, and i
 - **Automation**: Scripting, Data Scrapers, Task Orchestration, Selenium  
 - **AI/Computer Vision**: OpenCV  
 - **SEO/Behavioral Analytics**: A/B Testing, Heatmaps, User Retention Tools  
-- **Operating Systems**: Linux, Ubuntu  
-- **Languages**: Java
+- **Operating Systems**: Parrot OS, Kali Linux, Ubuntu, Linux Mint
+- **Other Languages I worked on**: Java, C++, Bash, .NET, R
 
 ---
 
