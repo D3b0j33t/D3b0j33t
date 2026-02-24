@@ -28,7 +28,7 @@ Where innovation meets intuition. I build systems that not only work—but work 
   </a>
 
   <!-- UPI Donation Button -->
-  <a href="https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=upi://pay?pa=debojeet9279.ckp%40oksbi&pn=Debojeet%20Bhowmick&tn=Support%20For%20Your%20Work&cu=INR" target="_blank">
+  <a href="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=upi://pay?pa=debojeet9279.ckp%40oksbi&pn=Debojeet%20Bhowmick&tn=Support%20For%20Your%20Work&cu=INR" target="_blank">
     <img src="https://img.shields.io/badge/💳_Donate_via_UPI-1A73E8?style=for-the-badge&logo=google-pay&logoColor=white" />
   </a>
 
