@@ -29,7 +29,7 @@ Where innovation meets intuition. I build systems that not only work—but work 
 
   <!-- UPI Donation Button -->
   <a href="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=upi://pay?pa=debojeet9279.ckp%40oksbi&pn=Debojeet%20Bhowmick&tn=Support%20For%20Your%20Work&cu=INR" target="_blank">
-    <img src="https://img.shields.io/badge/💳_Donate_via_UPI-1A73E8?style=for-the-badge&logo=google-pay&logoColor=white" />
+    <img src="https://img.shields.io/badge/💳_UPI_QR_Code-1A73E8?style=for-the-badge&logo=google-pay&logoColor=white" />
   </a>
 
 </p>
@@ -165,12 +165,6 @@ With each project, I don’t just write code—I weave clarity, precision, and i
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d3b0j33t&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d3b0j33t&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=d3b0j33t&theme=tokyonight" />
-</p>
-
----
-
-## 📈 GitHub Insights
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3b0j33t&theme=tokyonight" />
 </p>
 
