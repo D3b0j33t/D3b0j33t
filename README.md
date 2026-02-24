@@ -15,10 +15,6 @@ Where innovation meets intuition. I build systems that not only work—but work 
   <img src="https://img.shields.io/github/stars/d3b0j33t?affiliations=OWNER%2CCOLLABORATOR&style=social" />
 </p>
 
----
-
-## ☕ Support & Connect
-
 <p align="center">
 
   <!-- Visit Website Button -->
@@ -38,7 +34,6 @@ Where innovation meets intuition. I build systems that not only work—but work 
 
 </p>
 
----
 ---
 
 ## 👋 Welcome, Curious Visitor
