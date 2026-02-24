@@ -171,20 +171,8 @@ With each project, I don’t just write code—I weave clarity, precision, and i
 
 ## 📈 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d3b0j33t&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3b0j33t&theme=tokyonight" />
 </p>
-
----
-
-## 👥 What They Say About Me
-
-> _“A rare combination of clarity, creativity, and execution. Debojeet doesn't just solve problems—he elevates them.”_  
-— **Jackson Levi**
-
-> _“He makes the complex feel simple. Our entire project vision sharpened after just one discussion with him.”_  
-— **Deepali Mohapatra**
 
 ---
 
