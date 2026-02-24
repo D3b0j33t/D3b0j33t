@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#ff6f61;">🚀 Debojeet Bhowmick — Architecting Digital Excellence</h1>
 
 <p align="center">
-  <img src="https://debojeet-bhowmick.netlify.app/assets/images/debojeet-bhowmick.gif" alt="Debojeet Bhowmick Profile" width="200">
+  <img src="https://debojeet-bhowmick.netlify.app/assets/images/debojeet-bhowmick.gif" alt="Debojeet Bhowmick Profile" width="200" style="mix-blend-mode: screen;">
 </p>
 
 <p align="center"><em>
