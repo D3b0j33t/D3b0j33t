@@ -192,3 +192,7 @@ With each project, I don’t just write code—I weave clarity, precision, and i
 <p align="center">
   <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="180" alt="Let's create something amazing">
 </p>
+
+<audio autoplay muted loop hidden>
+  <source src="Not Responsible (Slowed).mp3" type="audio/mpeg">
+</audio>
